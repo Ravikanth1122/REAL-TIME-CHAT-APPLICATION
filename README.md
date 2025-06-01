@@ -34,3 +34,7 @@ Live User Interaction: Timestamp support and automatic scrolling are features th
 Tailwind CSS was used to create the responsive layout, which allows the user interface to adapt fluidly to different screen sizes and devices.
 
 Clean Message Interface: Contains send buttons, input boxes that are easy to use, and
+
+#Output:
+
+![Image](https://github.com/user-attachments/assets/84b6a352-87ae-4643-9aff-cad833c32929)
